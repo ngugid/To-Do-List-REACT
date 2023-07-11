@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: auto;
+  margin-top: 0%;
+  padding: 2rem;
+  text-align: center;
+  background-color: azure;
+
+}
+
+.todobtn {
+  background-color: blanchedalmond;
+  margin-left: 20px;
+
+}
+
+.deletebtn{
+  background-color: coral;
+  margin-left: 25px;
+  height: 35px;
+}
+
+.todoinput {
+  margin-bottom: 20px;
+}
